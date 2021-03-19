@@ -6,7 +6,7 @@ import Checkbox from '../../components/uielements/checkbox';
 import Button from '../../components/uielements/button';
 import authAction from '../../redux/auth/actions';
 import Auth0 from '../../helpers/auth0/index';
-import Firebase from '../../helpers/firebase';
+import Firebase from '../../helpers/firebase/index';
 import FirebaseLogin from '../../components/firebase';
 import IntlMessages from '../../components/utility/intlMessages';
 import SignUpStyleWrapper from './signup.style';
